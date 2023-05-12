@@ -1,0 +1,3 @@
+C:\vonGdrive\von drive\Study\Sommer semster 22\Prog2\MatheLibrary\MathLibraryApp\MathLibraryApp\obj\Debug\MathLibraryApp.csproj.AssemblyReference.cache
+C:\vonGdrive\von drive\Study\Sommer semster 22\Prog2\MatheLibrary\MathLibraryApp\MathLibraryApp\obj\Debug\MathLibraryApp.csproj.SuggestedBindingRedirects.cache
+C:\vonGdrive\von drive\Study\Sommer semster 22\Prog2\MatheLibrary\MathLibraryApp\MathLibraryApp\obj\Debug\MathLibraryApp.csproj.CoreCompileInputs.cache
