@@ -1,0 +1,6 @@
+C:\vonGdrive\von drive\Study\Sommer semster 22\Prog2\MathLibraryApp\MathLibrary\bin\Debug\MathLibrary.dll
+C:\vonGdrive\von drive\Study\Sommer semster 22\Prog2\MathLibraryApp\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\vonGdrive\von drive\Study\Sommer semster 22\Prog2\MathLibraryApp\MathLibrary\obj\Debug\MathLibrary.csproj.AssemblyReference.cache
+C:\vonGdrive\von drive\Study\Sommer semster 22\Prog2\MathLibraryApp\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+C:\vonGdrive\von drive\Study\Sommer semster 22\Prog2\MathLibraryApp\MathLibrary\obj\Debug\MathLibrary.dll
+C:\vonGdrive\von drive\Study\Sommer semster 22\Prog2\MathLibraryApp\MathLibrary\obj\Debug\MathLibrary.pdb
